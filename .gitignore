@@ -60,5 +60,8 @@ buck-out/
 */fastlane/Preview.html
 */fastlane/screenshots
 
+# Jupiter notebook
+.ipynb_checkpoints/
+
 # Bundle artifact
 *.jsbundle
